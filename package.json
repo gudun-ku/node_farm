@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/gudun-ku/node_farm#readme",
   "dependencies": {
-    "slugify": "^1.3.5"
+    "slugify": "~1.3.5"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
